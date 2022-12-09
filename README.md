@@ -21,6 +21,7 @@ Plugin Version: A branch version that [supports 4.27 & 5.0.0](https://github.com
 ### Basic
 
 1. [ScreenShotter](https://github.com/kprimo/UEPyTutorials/blob/main/Content/Scripts/Basic/ScreenShotter/pie_screenshotter.py) - A sample of triggering PIE Screenshots with a python script
+2. [DynamicTexture](https://github.com/kprimo/UEPyTutorials/blob/main/Content/Scripts/Basic/DynamicTexture/dynamic_texture.py) - A sample of drawing a clock and using it as a dynamic material texture for a plane in real time
 
 ## Project Author Info
 
@@ -45,6 +46,7 @@ Python版本: Python 3.9.7
 ### 基础
 
 1. [ScreenShotter](https://github.com/kprimo/UEPyTutorials/blob/main/Content/Scripts/Basic/ScreenShotter/pie_screenshotter.py) - 演示如何使用python脚本在PIE下进行屏幕截图
+2. [DynamicTexture](https://github.com/kprimo/UEPyTutorials/blob/main/Content/Scripts/Basic/DynamicTexture/dynamic_texture.py) - 演示如何使用python脚本实时创建一个时钟图像并将其应用在一个平面模型的动态材质上
 
 ## 项目作者信息
 
