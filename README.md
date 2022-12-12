@@ -25,7 +25,7 @@ Plugin Version: A branch version that [supports 4.27 & 5.0.0](https://github.com
 
 ### Advanced
 
-1. [RuntimeImage](https://github.com/kprimo/UEPyTutorials/blob/main/Content/Scripts/Advanced/StableDiffusion/RuntimeImage/runtime_image_from_prompts.py) - A sample of generating an image using stable diffusion pipe and using it as a dynamic material texture for a plane in real time. Supporting both text2img and img2img(using screenshot as source)
+1. [RuntimeImage](https://github.com/kprimo/UEPyTutorials/blob/main/Content/Scripts/Advanced/StableDiffusion/RuntimeImage/runtime_image.py) - A sample of generating an image using stable diffusion pipe and using it as a dynamic material texture for a plane in real time. Supporting both text2img and img2img(using screenshot as source)
 
 ## Project Author Info
 
@@ -54,7 +54,7 @@ Python版本: Python 3.9.7
 
 ### 高阶
 
-1. [RuntimeImage](https://github.com/kprimo/UEPyTutorials/blob/main/Content/Scripts/Advanced/StableDiffusion/RuntimeImage/runtime_image_from_prompts.py) - 演示如何使用stable diffusion pipe实时生成一个图像并将其应用在一个平面模型的动态材质上，支持text2img，img2img（使用截屏作为源）
+1. [RuntimeImage](https://github.com/kprimo/UEPyTutorials/blob/main/Content/Scripts/Advanced/StableDiffusion/RuntimeImage/runtime_image.py) - 演示如何使用stable diffusion pipe实时生成一个图像并将其应用在一个平面模型的动态材质上，支持text2img，img2img（使用截屏作为源）
 
 ## 项目作者信息
 
